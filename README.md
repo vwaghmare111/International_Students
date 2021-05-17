@@ -1,1 +1,1 @@
-# International_Students
+Due to black swan events like COVID-19 which calls for desperate measures during desperate time, i.e. sealing International Australian borders. Education sector has huge financial setback which is third largest contributor to Australian GDP. Thus, forecasting number of international students in 2021 and 2022, we can estimate financial loss or opportunity forgone. Data was taken from below website. Data was taken from below website along with ARIMA and LSTM models in Python.
